@@ -39,7 +39,7 @@
 ├── seed.js               # Database hydration script
 └── database.sqlite       # Local data storage (Auto-created)
 ```
-
+---
 ## 🚀 Installation & Setup
 
 1. **Clone & Install**
@@ -68,6 +68,7 @@
 | `/api/events/:id/register` | `POST` | Process booking & update capacity |
 
 
+
 ---
 
 
@@ -78,8 +79,17 @@
 | `/api/users/signup` | `POST` | Create account with duplicate prevention |
 | `/api/users/login` | `POST` | Authenticate user and retrieve profile |
 
+---
 
----<img width="1680" height="928" alt="Screenshot 2026-03-31 at 6 06 33 AM" src="https://github.com/user-attachments/assets/ef50895d-5e1a-4b7c-b5bb-ad15a1b375d5" />
+## 📱 Interface Preview
+
+| Home Page | Event Details |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/70e8ffda-7bbe-44c9-ae92-ddbcfd5230d8" width="100%"> | <img src="https://github.com/user-attachments/assets/6b89d685-05d6-400f-9d2a-908d5f207ab2" width="100%"> |
+| **User Dashboard** | **Registration Flow** |
+| <img src="https://github.com/user-attachments/assets/ec14266d-c6c2-4715-bb01-56cc2cee1ef3" width="100%"> | <img src="https://github.com/user-attachments/assets/652b08af-b8a8-4f11-bacf-aebc622fdb1a" width="100%"> |
+
+---
 
 ## 📸 Class Categories
 
